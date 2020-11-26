@@ -1,0 +1,10 @@
+{
+	"author": [
+		"Abdou."
+	],
+	"description": "Tests someone for corona virus (just for fun).",
+    "install_msg": "Thanks for installing, have fun. `[p]coronatest <mention>` example: `[p]coronatest @Abdou.8384`",
+	"short": "COVID19 test.",
+	"tags": ["fun", "test", "covid19", "corona virus"],
+	"type": "COG"
+}
