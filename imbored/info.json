@@ -2,7 +2,7 @@
 	"author": [
 		"Abdou."
 	],
-	"description": "Gives random activities to do from http://www.boredapi.com/api",
+	"description": "Gives random activities to do from www.boredapi.com",
     "install_msg": "Thanks for installing, don't get bored. `[p]imbored`",
 	"short": "Random Activities.",
 	"tags": ["fun", "games", "activities", "bored", "random"],
