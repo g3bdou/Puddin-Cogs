@@ -1,0 +1,11 @@
+{
+	"author": [
+		"Abdou."
+	],
+	"description": "Gives your horoscope sign infos.",
+    "install_msg": "Thanks for installing, make sure to install pyaztro `$ pip install pyaztro`. `[p]horoscope <sign name>` example: `[p]horoscope capricorn`",
+	"short": "Horoscopes.",
+	"tags": ["fun", "horoscopes", "zodiac signs", "signs"],
+	"type": "COG",
+	"requirements": ["pyaztro"]
+}
